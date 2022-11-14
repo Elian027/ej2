@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Numero de edificios: "+u.getN_edificios());
         System.out.println("Numero de carreras: "+u.getN_carreras());
         //Hola Mundo
+        //Pvto el que lea
     }
 
 }
