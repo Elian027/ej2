@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Numero de maestros: "+u.getN_maestros());
         System.out.println("Numero de edificios: "+u.getN_edificios());
         System.out.println("Numero de carreras: "+u.getN_carreras());
-        //Pvto
+        //Hola Mundo
     }
 
 }
