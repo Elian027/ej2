@@ -5,7 +5,7 @@ public class universidades {
     int n_carreras;
 
     public universidades(){
-        nombre = "National Politechnic School";
+        nombre = "The National Politechnic School";
         n_maestros=1000;
         n_edificios=26;
         n_carreras=50;
